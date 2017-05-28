@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.hostbdc.deliver.adm" versionCode="1" version="1.0">
 <name>ADM DELIVER</name>
-<description>ADM DELIVER</description>
+<description>ADM DELIVERY</description>
 <author email="central@deliver.shopbdc.com.br" href="http://cordova.io">deliver.shopbdc.com.br</author>
 <icon src="icon.png"/>
 <content src="index.html"/>
