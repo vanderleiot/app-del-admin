@@ -1,7 +1,7 @@
 
 var krms_config ={			
-	'ApiUrl' : "http://deliver.shopbdc.com.br/merchantapp/api",	
+	'ApiUrl' : "http://deliveryma.com.br/merchantapp/api",	
 	'DialogDefaultTitle' : "ADM DELIVERY",
 	'pushNotificationSenderid' : "283086298967",
-	'APIHasKey' : "75e018c1ffeb3361a9b1259bfbd34731"
+	'APIHasKey' : "cc38fdd0b14dbfa2fcbe59ecd3ef1b27"
 };
